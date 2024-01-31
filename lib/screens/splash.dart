@@ -2,10 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:movie_web/assets.dart';
 import 'package:movie_web/main.dart';
-import 'package:movie_web/screens/browse.dart';
-import 'package:movie_web/screens/intro.dart';
-import 'package:page_transition/page_transition.dart';
-import 'package:flutter_animate/flutter_animate.dart';
 import 'package:shimmer/shimmer.dart';
 
 class SplashScreen extends StatefulWidget {
