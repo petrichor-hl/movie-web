@@ -107,7 +107,7 @@ class _FAQButtonState extends State<FAQButton> with SingleTickerProviderStateMix
                 child: Container(
                   width: double.infinity,
                   padding: const EdgeInsets.all(20),
-                  margin: const EdgeInsets.only(bottom: 5),
+                  margin: const EdgeInsets.only(bottom: 10),
                   decoration: BoxDecoration(
                     color: const Color.fromARGB(255, 45, 45, 45),
                     borderRadius: BorderRadius.circular(8),
